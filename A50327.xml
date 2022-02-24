@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of agreement between his excellency Prince Maurice and the Earle of Stamford vpon the delivery of the city of Excester the fifth of September, 1643 together with a letter relating the Earle of Stamfords proceedings in the west.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50327</idno>
+            <idno type="STC">Wing M1357</idno>
+            <idno type="STC">ESTC R773</idno>
+            <idno type="EEBO-CITATION">12075609</idno>
+            <idno type="OCLC">ocm 12075609</idno>
+            <idno type="VID">53563</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53563)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 239:E67, no 27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of agreement between his excellency Prince Maurice and the Earle of Stamford vpon the delivery of the city of Excester the fifth of September, 1643 together with a letter relating the Earle of Stamfords proceedings in the west.</title>
+                  <author>Maurice, Prince, 1620-1652.</author>
+                  <author>Stamford, Henry Grey, Earl of, 1599?-1673.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed  for Tho. Walkley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Exeter (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:53563:1"/>
+               <pb facs="tcp:53563:1" rendition="simple:additions"/>
+ARTICLES OF AGREEMENT Betweene his EXCELLENCY PRINCE MAURICE, And the EARLE of STAMFORD, Vpon the delivery of the CITY of EXCESTER, The fifth of September, 1643.</p>
+            <p>Together with a Letter relating the Earle of STAMFORDS proceedings in the Weſt.</p>
+            <floatingText type="license" xml:lang="lat">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Sept. 20. 1643.</date>
+                     </dateline>
+                  </opener>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <signed>Iohn White.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for <hi>Tho. Walkley,</hi> and are to be ſold at his ſhop at the ſigne of the flying Horſe neere York Houſe. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:53563:2"/>
+            <pb n="1" facs="tcp:53563:2"/>
+            <head>
+               <hi>Articles of Agreement,</hi> &amp;c.</head>
+            <opener>
+               <salute>MAURICE,</salute>
+            </opener>
+            <p n="1">1. IT is concluded and agreed on, that the City and Caſtle of Exon be ſurrendred into the hands of his Highneſſe Prince <hi>Maurice,</hi> with all Armes, Enſignes, Ordnance, Ammunition, and all other warlike proviſions whatſoever within the ſaid City and Caſtle.</p>
+            <p n="2">2. That the right honourable <hi>Henry</hi> Earle of Stanford together with all Officers above the degree of Lievetenants, both of horſe and foote, now within and about this City and Caſtle, do march out of this City and Caſtle, on Thurſday the 7. of this moneth, by nine of the clock in the morning, with their troops of horſe, full Armes, bagg and baggage, provided it be their owne goods, and that the Lievetenants and En<g ref="char:EOLhyphen"/>ſignes march out with their ſwords at the Eaſt Gate, and that the foot ſouldiers march out at the ſame time leaving their Armes at the Guild hall, all having a ſafe Convoy to Winſor or to goe elſewere if they pleaſe, and ſuch as will ſtay ſhall have pay in the Kings Army.</p>
+            <p n="3">3. That there be carriages allowed and provided to carry away their bagg and baggage, and ſick and hurt ſouldiers, and that an eſpe<g ref="char:EOLhyphen"/>ciall care be taken of ſuch Officers and ſouldiers as (being ſick and wounded) ſhalbe by the Earl of Stanford left behind in the ſaid City, and that upon their recovery they ſhall have paſſes to depart to their owne homes reſpectively.</p>
+            <p n="4">4. That the Kings forces march not into the City till the Parlia<g ref="char:EOLhyphen"/>ments force are march'd out, except 100. Musketteeres at the Eaſt part through which they paſſe.</p>
+            <p n="5">5. That his Higneſſe ſhall forthwith procure a free and generall par<g ref="char:EOLhyphen"/>don unto <hi>Henry</hi> Earle of Stanford Sir <hi>George Chudleigh,</hi> Sir <hi>Iohn Bamp<g ref="char:EOLhyphen"/>field,</hi> Sir <hi>Iohn Northcot</hi> Baronets, Sir <hi>Samuel Roberts,</hi> and Sir <hi>Nicholas Martin,</hi> Knights, and unto the Major, Bailifs and Cominalty of the City of Exon, and to all other perſons of what degree, condition, or quality ſoever, now being within the ſaid City of Exon, for all Treaſons and other offences whatſoever committed by them or any of
+<pb n="2" facs="tcp:53563:3"/>
+them ſince the beginning of this preſent Parliament relating to theſe unhappy differences between His Majeſty and the two Houſes of Par<g ref="char:EOLhyphen"/>liament, and that all or any of them ſhall have his particular pardon for the foreſaid offences or treaſons if he ſhall ſue forth the ſame.</p>
+            <p n="6">6. That the true Proteſtant Religion now eſtabliſhed by Law ſhall be preſerved and exerciſed in the City.</p>
+            <p n="7">7. That all perſons, Citizens and Inhabitants may at any time de<g ref="char:EOLhyphen"/>part with their families, goods and eſtates, unto any part of this King<g ref="char:EOLhyphen"/>dome, and that they and every of them ſhall have power to diſpoſe, ſell or alien either by themſelves or others, whatſoever goods or parts of their eſtates, they ſhall not convey or carry with them.</p>
+            <p n="8">8. That all perſons now in this City may have free liberty to re<g ref="char:EOLhyphen"/>paire to their houſes in the Countrey or elſewhere, and there to re<g ref="char:EOLhyphen"/>maine in ſafety, and enjoy their eſtates, lands, rents, and goods, with<g ref="char:EOLhyphen"/>out plundering, fine or impriſonment, or any other moleſtation, and may travell to and fro without any interruption, hindrance or deniall.</p>
+            <p n="9">9. That all Miniſters and Preachers of Gods word now within this City ſhall have free liberty either to ſtay here or go to their own hou<g ref="char:EOLhyphen"/>ſes, cures or charges, or elſewhere within his Majeſties Dominions, with their wives, children, families and goods, there to abide peace<g ref="char:EOLhyphen"/>ably, and to exerciſe their miniſteriall functions, and to enjoy their e<g ref="char:EOLhyphen"/>ſtates according to the Laws of the Land.</p>
+            <p n="10">10. That all the Charters, Liberties, Priviledges and Franchiſes, Lands, Eſtates, Goods and Debts of the ſaid City ſhall be preſerved and confirmed, and that the ancient government thereof, the preſent Governours and Officers may remaine and continue in their former condition.</p>
+            <p n="11">11. That no new oath or proteſtation be enforced upon any, nor any compelled to take up Arms againſt the Parliament.</p>
+            <p n="12">12. That for avoiding inconveniences and diſtractions, the quarte<g ref="char:EOLhyphen"/>ring of ſouldiers be referred to the Major and Governour of the City for the time being.</p>
+            <p n="13">13. That all theſe Articles which are now agreed upon ſhall be rati<g ref="char:EOLhyphen"/>fied and confirmed by His Majeſty under the great Seal of <hi>England.</hi>
+            </p>
+            <p n="14">14. That the Officers and Souldiers in their marching out ſhall not be reproached, or have any diſgracefull ſpeeches or affronts offered or given unto them by any Officer or Souldier of the Kings, and that the convoy appointed to march with them may goe and returne ſafely without any violence or wrong offered unto them by any force of the adverſe party.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Stanford.</item>
+                     <item>Chr. Clarke Major.</item>
+                     <item>Rich. Cave.</item>
+                     <item>Joſ. Bamfield.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:53563:3"/>
+            <head>The Letter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Send you the Articles of agreement for the delivery up of <hi>Exeter,</hi> partly to ſatisfie the world, as well as you of the cauſes of the loſſe of it, and ſome of the precedent paſſages of the Earle of <hi>Stamford,</hi> which I pray communicate. I heare there be ſome will hereafter en<g ref="char:EOLhyphen"/>large the ſtory; accept of theſe in the meane time. It is not unknown to thoſe that have lookt into the paſſages of this late and preſent War, that the Earle of <hi>Stamford</hi> was alwaies as forward for the Parliaments Cauſe as any Peere or Member of the Houſe of Commons whatſoever. That his freeneſſe of ſpirit was the occaſion why he was continually put on upon the forlorn hope of his excellencies Army, and that when the King was at <hi>Shrewſbury,</hi> it being uncertaine which way the King would take, the Earle was ſent before to <hi>Hereford</hi> a malignant County, and frontier to a malignanter <hi>Wales,</hi> all which he gallantly curbed with only 800. Foot, and two Troopes of Horſe for above ten weeks ſpace, till he was conſtrained to come to <hi>Gloſter</hi> upon Colonel <hi>Eſſex</hi> his leaving of it naked, and then there came to him a Commiſſion from his Excellencie, and the Parliament upon the requeſt of the Pem<g ref="char:EOLhyphen"/>brokeſhire Gentry, and others that he might be Generall of all <hi>Wales,</hi> and the foure Counties adjoyning, which he no ſooner had received, but he preſently raiſed three new Regiments at the charge of the wel-affected County of <hi>Gloſter,</hi> viſited <hi>Sommerſetſhire</hi> and <hi>Wiltſhire,</hi> and had proceeded on in the other Counties for the raiſing of a farre greater force, without charging the Parliament or the City of <hi>London,</hi> but he was ſuddenly commanded away to <hi>Exeter</hi> with <hi>Mericks</hi> Re<g ref="char:EOLhyphen"/>giment only, leaving his former Horſe and Foot under his Lieutenant Colonell <hi>Maſſy</hi> in <hi>Gloſter,</hi> and the new raiſed Regiments uncomplea<g ref="char:EOLhyphen"/>ted, and there being no certaine Commander left in chiefe by reaſon of the difference between Colonell <hi>Fines</hi> and <hi>Eſſex.</hi> His Excellencie intimated to the Committee for the ſafety of the Kingdome by Colo<g ref="char:EOLhyphen"/>nell <hi>Hampden</hi> that the Earle of <hi>Stamford</hi> might be called backe into <hi>Gloſterſhire;</hi> but that not being thought fit, and the Earle being be<g ref="char:EOLhyphen"/>traied
+<pb n="4" facs="tcp:53563:4"/>
+or unobeyed (chuſe you whether) as he hath ever been ſince he went into thoſe parts by his then Lieutenant Generall, and the Coun<g ref="char:EOLhyphen"/>try Colonells at <hi>Liſcard</hi> to ſecure <hi>Plimoth,</hi> was beſieged there, during which time <hi>Cirenceſter</hi> was loſt, and all that wel-affected County but <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> which was then alſo beſieged, defended by <hi>Maſſy,</hi> and relie<g ref="char:EOLhyphen"/>ved by Sir <hi>William Waller.</hi> The Earle had no ſooner freed himſelf of the ſiege of <hi>Plimoth,</hi> and cut off the Enemy at <hi>Modbury,</hi> but the Country people uſually wilful to their humors will have a Treaty, having forgot<g ref="char:EOLhyphen"/>ten the freſh plundering of their houſes and cattell, and the barbarous deſtroying of their fruit trees by the Corniſh. The Earle muſt fight with the hands that would treat, and pay his Army with their money, which before he had a diſcretive power to doe, but now becauſe hee could not make them doe what they would not, his Lordſhips power of diſpoſing of money was taken away which gave great diſcontent to the Officers and Souldiers: Mr. <hi>Buller</hi> was diſplaced, a man of fortune and honeſty to the Parliament, and young <hi>Chidleigh</hi> put in his place of Major Generall, without the nomination of the Earle, which made him knowing <hi>Chidleighs</hi> fire and heat, to make his father Sir <hi>George Chidleigh</hi> Lieutenant Generall for his more temper. The new Major to make good the vogue of the people doth a ſtratagem in a dark night with 108. Horſe to all mens amazement, but his enemies, that hee might betray them with more confidence as he did afterwards. Now theſe great orderers of the Earles Army, full in popularity, and preſu<g ref="char:EOLhyphen"/>med by all men to know the Country well led the Army and Earle to ſuch a way, that had he not rid out himſelfe with ſome few Gentle<g ref="char:EOLhyphen"/>men to take the aire and view the Country, all his Foot had beene brought unawares upon the enemies whole Body, at the ſame time when the father <hi>Chidleigh</hi> had carried away halfe the Horſe into <hi>Cornwall</hi> firſt, preſently Mr. <hi>Anthony Nichols</hi> by warrant under the ſonnes hand took all the reſt Horſe and Dragoons, with the Lifeguard from the Earle without his knowledge. The time now comes to be<g ref="char:EOLhyphen"/>tray the Foot in the Horſes abſence: The Earle having viewed the ground that it was moraſſe but in two paſſages at a bridge and a mill, and a third to a houſe adjoyning, commands a good guard of Muſque<g ref="char:EOLhyphen"/>tiers to every of them, <hi>Chidleigh</hi> diſappoints thoſe places, and the Enemy ſtraight poſſeſſeth them (and it is ſince confirmed by two Cen<g ref="char:EOLhyphen"/>tinells whom <hi>Chidleigh</hi> cudgelled that night for ſhooting at him that he was abſent in the Enemies quarters above an houre) and alarmes him by breake of day, where himſelfe was taken, and the Van of a brave Army killed, taken, and rooted with him. After all this the
+<pb n="5" facs="tcp:53563:4"/>
+Earle had 3000. men left, ſtore of Amunition and Ordnance, which himſelfe ſtood to, and intreated them to ſtand alſo, but no intreaty could perſwade above thirty of them to ſtay. The Earle made his re<g ref="char:EOLhyphen"/>treat by <hi>Barnſtable,</hi> for the ſecuring of that and <hi>Bidford</hi> for their con<g ref="char:EOLhyphen"/>ſequence on the Iriſh Seas, and ſo to <hi>Exeter,</hi> where he was beſieged by young <hi>Chidleigh,</hi> and the ſame popularity that ran away from him before, and continued beſieged three monthes and nineteene dayes; during which time, we heare it was laboured in the City of <hi>London</hi> on the behalfe of the Earle that there might be 2000. of their new Auxi<g ref="char:EOLhyphen"/>liaries ſent thither by Sea, with the Earle of <hi>Warwick</hi> who otherwiſe attempted the raiſing of the ſiege, but either for want of that ſtrength, or elſe by the treachery of Sir <hi>Alexander Cary</hi> (who ſince hath beene ſurpriſed in deſigne of delivering up St. <hi>George</hi> his Iſland to the <hi>Fal<g ref="char:EOLhyphen"/>mouth</hi> Forces) could not effect it, though he loſt three Ships in attem<g ref="char:EOLhyphen"/>pting it, or elſe by land to joyne with Sir <hi>Walter Earle,</hi> and by that meanes Dorcheſter, Weymouth, and all that Country might have been ſaved. When the Earle of <hi>Stamford</hi> being ſo relieved, might have had a ſufficient force to have come upon the back of Sir <hi>Ralph Hopton,</hi> Sir <hi>William Waller</hi> being in his Front with ſo great a force of Horſe and Dragoons, whereof 1200. had been ſent from the Earle: but no ſupply comming from the City of <hi>London</hi> or elſewhere, nor intelli<g ref="char:EOLhyphen"/>gence paſſing, the ſiege was ſo ſtreight, and the Citizens of <hi>Exon</hi> not well ſtomaching their Souldiers, nor paying them, nor quartering them like men, ſuffering hundreds of them to lye upon ſtalls, whereby above a thouſand of them ran away, and moſt probably to the Enemy: they urged the Earle to their conditions, although the Enemy himſelfe had but two dayes before offered fifteen dayes time to ſend to the Parlia<g ref="char:EOLhyphen"/>ment for aid, or elſe to render upon honourable conditions, which was then refuſed, but theſe are plauſible enough to thoſe that hope on<g ref="char:EOLhyphen"/>ly to be quiet in this world, and wiſh for peace and pardon at any rate, which I beleeve they ſhall as well enjoy as their Apple-trees.</p>
+            <p>Sir, I ſhall adde one thing more, to tell you the generoſity of the City of Exeter, and their affections to the Parliament Armes, that although the 500. men left in the Town had indured ſo many aſſaults, watcht conſtantly every ſecond night, and ſometimes foure or five to<g ref="char:EOLhyphen"/>gether, and in one of many ſallyes had ſlaine and taken 200. men, and brought away three pieces of Ordnance, and withall they had not loſt one inch of ground, would not pay the Souldiers nor Commanders in the Towne, nor give them one farthing at their going out of it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
